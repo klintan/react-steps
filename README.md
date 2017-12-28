@@ -1,6 +1,8 @@
 # react-steps
 Steps component for react
 
+Will hopefully be adapted to something like this https://material.io/guidelines/components/steppers.html#steppers-types-of-steps in this repo.
+
 Demo : http://jakubzloczewski.github.io/react-steps/
 
 ## Instructions
@@ -21,4 +23,4 @@ to compile example with webpack
 npm run build && npm run buildExample
 ```
 
-Tu run example localy just open ./example/index.html in browser
+To run example localy just open ./example/index.html in browser
